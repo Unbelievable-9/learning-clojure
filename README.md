@@ -1,36 +1,13 @@
-# learning-clojure
+# Learning-Clojure
 
-FIXME: description
+监督自己学习Clojure语言的项目
 
-## Installation
+## 学习时用到到工具
 
-Download from http://example.com/FIXME.
+- Leiningen
+- Spacemacs
+- cider
 
-## Usage
+## 学习用书
 
-FIXME: explanation
-
-    $ java -jar learning-clojure-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+[Programming Clojure](https://www.amazon.com/Programming-Clojure-Stuart-Halloway/dp/1934356867 "Programming Clojure")
